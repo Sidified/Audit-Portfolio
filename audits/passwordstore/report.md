@@ -71,7 +71,7 @@ We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate
 
 ## Scope
 
-- **Repository:** [Cyfrin/3-passwordstore-audit](https://github.com/Cyfrin/3-passwordstore-audit/tree7d55682ddc4301a7b13ae9413095feffd9924566)
+- **Repository:** [Cyfrin/3-passwordstore-audit](https://github.com/Cyfrin/3-passwordstore-audit/tree/7d55682ddc4301a7b13ae9413095feffd9924566)
 - **Commit:** `7d55682ddc4301a7b13ae9413095feffd9924566`
 - **In scope:** `src/PasswordStore.sol`
 
