@@ -68,10 +68,16 @@ The Sid Hary team makes all effort to find as many vulnerabilities in the code i
 We use the [CodeHawks](https://docs.codehawks.com/hawks-auditors/how-to-evaluate-a-finding-severity) severity matrix to determine severity. See the documentation for more details.
 
 # Audit Details
+
+**The findings described in this document correspond the following commit hash:**
+```
+7d55682ddc4301a7b13ae9413095feffd9924566
+```
+
 ## Scope
 
 ```
-./audits/passwordstore
+./src/
 ----> PasswordStore.sol
 ```
 ## Roles
