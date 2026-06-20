@@ -22,9 +22,9 @@ Every audit here — practice or not — is treated as a real engagement: define
 
 ## Audits
 
-| Date    | Project       | Type   | Findings     | Report                                                                     |
-| ------- | ------------- | ------ | ------------ | -------------------------------------------------------------------------- |
-| 2026-06 | PasswordStore | Course | 2H · 0M · 0L | [PDF](reports/2026-06-passwordstore.pdf) · [details](audits/passwordstore) |
+| Date         | Project       | Type   | Findings          | Report                                                                        |
+| ------------ | ------------- | ------ | ----------------- | ----------------------------------------------------------------------------- |
+| 15 June 2026 | PasswordStore | Course | 2H · 0M · 0L · 1I | [PDF](reports/2026-06-15-passwordstore.pdf) · [details](audits/passwordstore) |
 
 <sub>Severity key — **H** High · **M** Medium · **L** Low · **I** Informational · **G** Gas</sub>
 
